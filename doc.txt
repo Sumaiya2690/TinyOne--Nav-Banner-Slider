@@ -1,0 +1,11 @@
+font color
+black 010101
+grey 555555
+blackish 313841
+yellow fcdb00
+whitish 898989
+white ffffff
+
+
+     xxl-xl-lg      md      sm-col
+menu font 22        22       20
